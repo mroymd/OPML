@@ -1,3 +1,8 @@
+Online Portfolio Selection with ML Predictions
+
+[Accepted to NeurIPS 2025]
+
+
 Step 1): Connect to Colab, upload NYSE(N).zip and NYSE(O).txt to the current working directory.
 
 Step 2): Unzip NYSE(N).zip.
